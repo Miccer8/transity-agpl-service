@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "sweph": "git+https://github.com/u-blusky/sweph-wasm.git"
+    "express": "^4.18.2"
   }
 }
